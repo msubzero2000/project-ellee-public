@@ -1,0 +1,8 @@
+pyaudio
+google-cloud
+google-cloud-speech
+playsound
+openai
+boto3
+opencv-python
+Pillow
